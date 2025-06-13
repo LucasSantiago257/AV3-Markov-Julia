@@ -32,6 +32,7 @@ Este projeto simula a jornada de Orfeu pelo submundo grego para resgatar Eurídi
     instantiate
     ```
     Isso irá instalar todas as dependências listadas em `Project.toml`.
+   
     Depois disso, dê um backspace para voltar para o Menu Julia e então use CTRL-D para voltar para o terminal padrão.
 
 ## Como rodar
