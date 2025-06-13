@@ -88,7 +88,7 @@ end
 # Existem dois plots aqui, um para a Jornada de Orfeu e um para a evolução do poder místico.
 # Por padrão, Julia só permite um Plot por vez, então decidi comentar o segundo plot para evitar conflitos.
 
-# contagem = countmap(caminho)
+contagem = countmap(caminho)
 labels = collect(keys(contagem))
 valores = collect(values(contagem))
 
