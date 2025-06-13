@@ -21,6 +21,7 @@ Este projeto simula a jornada de Orfeu pelo submundo grego para resgatar Eurídi
     ```sh
     git clone https://github.com/LucasSantiago257/AV3-Markov-Julia.git
     cd AV3-Markov-Julia
+    cd Projeto_Markov
     ```
 2. Abra o terminal nesta pasta e ative o ambiente do projeto:
     ```sh
@@ -31,9 +32,9 @@ Este projeto simula a jornada de Orfeu pelo submundo grego para resgatar Eurídi
     instantiate
     ```
     Isso irá instalar todas as dependências listadas em `Project.toml`.
+    Depois disso, dê um backspace para voltar para o Menu Julia e então use CTRL-D para voltar para o terminal padrão.
 
 ## Como rodar
-
 Execute o script principal:
 ```sh
 julia markov_julia.jl
