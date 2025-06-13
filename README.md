@@ -19,7 +19,7 @@ Este projeto simula a jornada de Orfeu pelo submundo grego para resgatar Eurídi
 
 1. Clone este repositório:
     ```sh
-    git clone https://github.com/LucasSantiago257/AV3-Markov-Julia/tree/main
+    git clone https://github.com/LucasSantiago257/AV3-Markov-Julia.git
     cd AV3-Markov-Julia
     ```
 2. Abra o terminal nesta pasta e ative o ambiente do projeto:
