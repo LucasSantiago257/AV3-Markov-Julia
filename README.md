@@ -12,7 +12,7 @@ Este projeto simula a jornada de Orfeu pelo submundo grego para resgatar Eurídi
 
 ## Pré-requisitos
 
-- [Julia](https://julialang.org/) (recomendado 1.6 ou superior)
+- [Julia](https://julialang.org/) (A versão utilizada foi a 1.10.9)
 - As bibliotecas: `Distributions`, `Plots` e `StatsBase`
 
 ## Instalação
