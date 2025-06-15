@@ -1,4 +1,4 @@
-using Distributions, Plots, StatsBase # Apenas necessário para PLOTAR, remover se não for querer ver os Plots
+using Distributions, Plots, StatsBase # Apenas necessário para PLOTAR, não faz nada pela lógica do código em si
 
 # Projeto: Orfeu no Submundo - O Resgate de Eurídice
 # Descrição: Simulação de uma jornada de Orfeu pelo submundo grego, onde ele deve explorar salas e coletar poder místico para resgatar Eurídice, as salas são representadas por um modelo de Markov.
