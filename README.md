@@ -21,7 +21,6 @@ Este projeto simula a jornada de Orfeu pelo submundo grego para resgatar Eurídi
     ```sh
     git clone https://github.com/LucasSantiago257/AV3-Markov-Julia.git
     cd AV3-Markov-Julia
-    cd Projeto_Markov
     ```
 2. Abra o terminal nesta pasta e ative o ambiente do projeto:
     ```sh
