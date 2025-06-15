@@ -83,8 +83,6 @@ else
     println("\n💀 Orfeu não reuniu poder místico suficiente para vencer Hades... Eurídice permanece no submundo.")
 end
 
-# Como Julia é uma linguagem de programação científica, vamos plotar os resultados do 
-
 # Existem dois plots aqui, um para a Jornada de Orfeu e um para a evolução do poder místico.
 # Por padrão, Julia só permite um Plot por vez, então decidi comentar o segundo plot para evitar conflitos.
 
