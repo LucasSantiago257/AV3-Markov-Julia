@@ -33,6 +33,12 @@ Este projeto simula a jornada de Orfeu pelo submundo grego para resgatar Eurídi
     ```
     Isso irá instalar todas as dependências necessárias.
 
+3.1. Se o comando acima não tiver instalado as dependencias, rode em seu terminal os seguintes comandos
+```
+Pkg.add('Distributions')
+Pkg.add('Plots')
+Pkg.add('StatsBase')
+```
 4. No modo pacote, pressione Backspace para voltar ao REPL, e depois CTRL-D para voltar ao terminal convencional
 
    
