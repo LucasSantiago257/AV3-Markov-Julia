@@ -1,1 +1,0 @@
-Olhe o Readme Anterior.
