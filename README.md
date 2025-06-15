@@ -31,11 +31,16 @@ Este projeto simula a jornada de Orfeu pelo submundo grego para resgatar Eurídi
     ```
     instantiate
     ```
-    Isso irá instalar todas as dependências listadas em `Project.toml`.
+    Isso irá instalar todas as dependências necessárias.
+
+4. No modo pacote, pressione Backspace para voltar ao REPL, e depois CTRL-D para voltar ao terminal convencional
+
    
-    Depois disso, dê um backspace para voltar para o Menu Julia e então use CTRL-D para voltar para o terminal padrão.
 
 ## Como rodar
-Execute o script principal:
+Pelo Terminal - Execute o script principal:
 ```sh
 julia markov_julia.jl
+```
+Com IDE ou Editor de Código - Rode o código em uma IDE ou Editor de Código compatível com Julia (e.g. Visual Studio Code)
+
